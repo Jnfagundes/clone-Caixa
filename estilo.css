@@ -25,3 +25,42 @@ header{
     padding-right: 15px;
     border-right: solid 2px orange;
 }
+
+a{
+    text-decoration: none;
+}
+
+h3{
+    color: wheat;
+    height: 30px;
+    margin-left: 15px;
+    padding-right: 15px;
+    padding-top: 0px;
+    border-right: solid 2px orange;
+}
+
+#pesquisa{
+    margin-left: 15px;
+    padding: 5px;
+    background-color:rgb(72, 72, 236); 
+    border: none;
+    border-bottom: solid 1px wheat;
+    color: wheat;
+}
+
+#conta{
+    margin-left: 55px;
+    padding-right: 15px;
+    padding-top: 0px;
+    background-color: wheat;
+    height: 50px;
+    width: 180px;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+}
+
+#aconta{
+    color: blue;
+    padding: 20px;
+}
